@@ -535,7 +535,7 @@ height: auto; background-color:rgba(175, 224, 206, 0.4); border-radius: 16px;}
 
   section.wrap-section{
     max-width: 1080px;
-    margin: auto;
+    margin: 3rem auto;
     padding:0px 24px 80px;
   }
  .wrap-section-services{
