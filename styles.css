@@ -192,7 +192,7 @@ html {
   }   
 
 /****CASE STUDIES SECTION****/
-.case-study-title h1{font-family: "Boldonse", system-ui; color: var(--ink); padding-top:4rem; font-size: 2rem; font-weight: 200; margin: 2rem 0 0 0; line-height: 1.6;}
+.case-study-title h1{font-family: "Boldonse", system-ui; color: var(--ink); padding-top: 6rem; font-size: 2rem; font-weight: 200; margin: 2rem 0 0 0; line-height: 1.6;}
 .case-study-title p { 
                         font-family: "Montserrat", sans-serif; 
                         font-size: 1.25rem; line-height: 1.3;
